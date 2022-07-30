@@ -1,0 +1,17 @@
+body {
+  background-color: #f9fafa;
+  color: #20303c;
+  font-family: Madefor,Helvetica Neue,Helvetica,Arial,メイリオ,meiryo,ヒラギノ角ゴ pro w3,hiragino kaku gothic pro,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 100%;
+  /* line-height: 1.5; */
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.container {
+  padding: 0 80px;
+}
+
+
